@@ -1,0 +1,42 @@
+{
+  "name": "react-flexgrid",
+  "version": "0.1.0",
+  "description": "Flexbox Grid reimagined as a set of React components",
+  "main": "./lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "react": "^0.11.2",
+    "react-style": "git+https://github.com/js-next/react-style"
+  },
+  "devDependencies": {
+    "normalize.css": "^3.0.1",
+    "webpack": "^1.4.1-beta1",
+    "webpack-dev-server": "^1.6.5",
+    "react-hot-loader": "^0.4.5",
+    "style-loader": "^0.8.0",
+    "css-loader": "^0.8.0",
+    "jsx-loader": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreypopp/react-flexgrid.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "grid",
+    "flexbox",
+    "react-style"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/react-flexgrid/issues"
+  },
+  "homepage": "https://github.com/andreypopp/react-flexgrid"
+}
